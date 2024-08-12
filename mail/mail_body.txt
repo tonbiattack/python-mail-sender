@@ -1,0 +1,6 @@
+CSV取り込みが完了しました
+
+総件数:{total_count}
+成功件数:{succeed_count}
+追加件数:{added_count}
+エラー件数:{error_count}
